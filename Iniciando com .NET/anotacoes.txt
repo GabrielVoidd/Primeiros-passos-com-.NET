@@ -1,0 +1,5 @@
+Instalando o .NET: https://dotnet.microsoft.com/download
+
+Instalando o VSCODE: https://code.visualstudio.com/
+
+CLI do .NET: dotnet --help (efetuar no terminal)

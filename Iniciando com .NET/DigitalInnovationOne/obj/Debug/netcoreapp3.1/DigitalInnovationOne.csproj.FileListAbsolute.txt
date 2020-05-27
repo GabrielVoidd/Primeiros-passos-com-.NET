@@ -1,0 +1,13 @@
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.exe
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.deps.json
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.json
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.dev.json
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfo.cs
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Iniciando com .NET\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.genruntimeconfig.cache
