@@ -1,0 +1,13 @@
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\bin\Debug\netcoreapp3.1\EstruturaPrograma.exe
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\bin\Debug\netcoreapp3.1\EstruturaPrograma.deps.json
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\bin\Debug\netcoreapp3.1\EstruturaPrograma.runtimeconfig.json
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\bin\Debug\netcoreapp3.1\EstruturaPrograma.runtimeconfig.dev.json
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\bin\Debug\netcoreapp3.1\EstruturaPrograma.dll
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\bin\Debug\netcoreapp3.1\EstruturaPrograma.pdb
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\obj\Debug\netcoreapp3.1\EstruturaPrograma.csprojAssemblyReference.cache
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\obj\Debug\netcoreapp3.1\EstruturaPrograma.csproj.CoreCompileInputs.cache
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\obj\Debug\netcoreapp3.1\EstruturaPrograma.AssemblyInfoInputs.cache
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\obj\Debug\netcoreapp3.1\EstruturaPrograma.AssemblyInfo.cs
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\obj\Debug\netcoreapp3.1\EstruturaPrograma.dll
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\obj\Debug\netcoreapp3.1\EstruturaPrograma.pdb
+C:\GabrielVoidd(UsernameGitHub)\PrimeirosPassosCom.NET\Primeiros-passos-com-.NET\Conhecendo o C#\EstruturaPrograma\obj\Debug\netcoreapp3.1\EstruturaPrograma.genruntimeconfig.cache
